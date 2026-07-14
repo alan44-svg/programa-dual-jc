@@ -164,9 +164,7 @@ footer{
     color: yellow;
 }
 
-/*==========================
-        SERVICIOS
-==========================*/
+/*SERVICIOS*/
 
 .servicios{
     display: flex;
@@ -191,9 +189,7 @@ footer{
     transition: .3s;
 }
 
-/*==========================
-    ¿POR QUÉ ELEGIRNOS?
-==========================*/
+/*¿POR QUÉ ELEGIRNOS?*/
 
 .elegir{
     display: flex;
